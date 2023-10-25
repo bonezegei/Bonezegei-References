@@ -5,4 +5,5 @@ This document's content provides an overview of the key sources for each reposit
 
 | No. | Repository | Reference |
 |-----| -----------| ----------|
-| 1   | [Bonezegei GPS](https://github.com/bonezegei/Bonezegei_GPS)| Batutay, Jofel. (2023). Bonezegei GPS Library. https://doi.org/10.13140/RG.2.2.25171.96807. |
+| 1   | [Bonezegei SoftSerial](https://github.com/bonezegei/Bonezegei_SoftSerial)| Batutay, Jofel. (2023). Bonezegei SoftSerial. https://doi.org/10.13140/RG.2.2.28003.12325.    |
+| 2   | [Bonezegei GPS](https://github.com/bonezegei/Bonezegei_GPS)              | Batutay, Jofel. (2023). Bonezegei GPS Library. https://doi.org/10.13140/RG.2.2.25171.96807/1. |
