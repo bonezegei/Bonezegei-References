@@ -7,4 +7,5 @@ This document's content provides an overview of the key sources for each reposit
 |-----| -----------| ----------|
 | 1   | [Bonezegei SoftSerial](https://github.com/bonezegei/Bonezegei_SoftSerial)| Batutay, Jofel. (2023). Bonezegei SoftSerial. https://doi.org/10.13140/RG.2.2.28003.12325.    |
 | 2   | [Bonezegei GPS](https://github.com/bonezegei/Bonezegei_GPS)              | Batutay, Jofel. (2023). Bonezegei GPS Library. https://doi.org/10.13140/RG.2.2.25171.96807/1. |
-| 3   | [Bonezegei Search](https://github.com/bonezegei/Bonezegei_Search)             | Batutay, Jofel. (2023). Bonezegei Search : A Library for Extracting Key Values from Single Strings in Embedded Systems. http://doi.org/10.13140/RG.2.2.30336.20487 |
+| 3   | [Bonezegei Search](https://github.com/bonezegei/Bonezegei_Search)        | Batutay, Jofel. (2023). Bonezegei Search : A Library for Extracting Key Values from Single Strings in Embedded Systems. http://doi.org/10.13140/RG.2.2.30336.20487 |
+| 4   | [Bonezegei GSM](https://github.com/bonezegei/Bonezegei_GSM)             | Batutay, Jofel. (2023). Bonezegei GSM: A Simple and Reliable Arduino Library for AT Command Based GSM Modules. http://doi.org/10.13140/RG.2.2.13359.10400.  |
