@@ -13,4 +13,6 @@ This document's content provides an overview of the key sources for each reposit
 | 6   | [Bonezegei SSD1306](https://github.com/bonezegei/Bonezegei_SSD1306)     | Batutay, Jofel. (2023). Bonezegei SSD1306: Arduino Library for 128x64 OLED Display. http://doi.org/10.13140/RG.2.2.13909.60648.  |
 | 7   | [Bonezegei I2CScan](https://github.com/bonezegei/Bonezegei_I2CScan)     | Batutay, Jofel. (2023). Bonezegei I2CScan: Device Scanner. http://doi.org/10.13140/RG.2.2.35182.59201.  |
 | 8   | [Bonezegei HCSR04](https://github.com/bonezegei/Bonezegei_HCSR04)       | Batutay, Jofel. (2023). Bonezegei HCSR04: Arduino Library for Ultrasonic Distance Sensor. http://doi.org/10.13140/RG.2.2.15259.64806.  |
+| 9   | [Bonezegei List](https://github.com/bonezegei/Bonezegei_List)           | Batutay, Jofel. (2023). Bonezegei List: Simple Arduino Library for Linked List. http://doi.org/10.13140/RG.2.2.13057.63849.  |
+
 
