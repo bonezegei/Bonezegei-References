@@ -15,5 +15,6 @@ This document's content provides an overview of the key sources for each reposit
 | 8   | [Bonezegei HCSR04](https://github.com/bonezegei/Bonezegei_HCSR04)       | Batutay, Jofel. (2023). Bonezegei HCSR04: Arduino Library for Ultrasonic Distance Sensor. ResearchGate. http://doi.org/10.13140/RG.2.2.15259.64806.  |
 | 9   | [Bonezegei List](https://github.com/bonezegei/Bonezegei_List)           | Batutay, Jofel. (2023). Bonezegei List: Simple Arduino Library for Linked List. ResearchGate. https://doi.org/10.13140/RG.2.2.13057.63849.  |
 | 10  | [Bonezegei RS485](https://github.com/bonezegei/Bonezegei_RS485)         | Batutay, Jofel. (2023). Bonezegei RS485 : Arduino Library for RS485 to UART Converter using MAX485. ResearchGate. https://doi.org/10.13140/RG.2.2.19211.46886.  |
+| 11  | [Bonezegei DHT11](https://github.com/bonezegei/Bonezegei_DHT11) ,  [Bonezegei DHT22](https://github.com/bonezegei/Bonezegei_DHT22)        | Batutay, Jofel. (2023). Bonezegei DHT11 and Bonezegei DHT22 : Arduino Library for Temperature and Humidity sensor. ResearchGate. https://doi.org/10.13140/RG.2.2.35072.81929.  |
 
 
