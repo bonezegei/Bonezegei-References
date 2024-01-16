@@ -18,5 +18,5 @@ This document's content provides an overview of the key sources for each reposit
 | 11  | [Bonezegei DHT11](https://github.com/bonezegei/Bonezegei_DHT11) ,  [Bonezegei DHT22](https://github.com/bonezegei/Bonezegei_DHT22)        | Batutay, Jofel. (2023). Bonezegei DHT11 and Bonezegei DHT22 : Arduino Library for Temperature and Humidity sensor. ResearchGate. https://doi.org/10.13140/RG.2.2.35072.81929.  |
 | 12  | [Bonezegei HD44780](https://github.com/bonezegei/Bonezegei_HD44780)     | Batutay, Jofel. (2023). Bonezegei HD44780: Arduino Library for 16x2 LCD 4-Bit Mode. ResearchGate. https://doi.org/10.13140/RG.2.2.24027.54561.  |
 | 13  | [Bonezegei WS2812](https://github.com/bonezegei/Bonezegei_WS2812)       | Batutay, Jofel. (2023). Bonezegei WS2812: Arduino Library for RGB LED. https://doi.org/10.13140/RG.2.2.11403.26405.  |
-
+| 14  | [Bonezegei PCF8574](https://github.com/bonezegei/Bonezegei_PCF8574)     | Batutay, Jofel. (2024). Bonezegei PCF8574: Arduino Library for I2C Input Output Expander. https://doi.org/10.13140/RG.2.2.24957.74729.  |
 
