@@ -20,4 +20,4 @@ This document's content provides an overview of the key sources for each reposit
 | 13  | [Bonezegei WS2812](https://github.com/bonezegei/Bonezegei_WS2812)               | Batutay, Jofel. (2023). Bonezegei WS2812: Arduino Library for RGB LED. https://doi.org/10.13140/RG.2.2.11403.26405.  |
 | 14  | [Bonezegei PCF8574](https://github.com/bonezegei/Bonezegei_PCF8574)             | Batutay, Jofel. (2024). Bonezegei PCF8574: Arduino Library for I2C Input Output Expander. https://doi.org/10.13140/RG.2.2.24957.74729.  |
 | 15  | [Bonezegei_LCD1602_I2C](https://github.com/bonezegei/Bonezegei_LCD1602_I2C)     | Batutay, Jofel. (2024). Bonezegei LCD1602 I2C: Arduino Library for 16x2 LCD HD44780 interfaced via PCF8574. https://doi.org/10.13140/RG.2.2.30456.21762.  |
-
+| 16  | [Bonezegei_ILI9341](https://github.com/bonezegei/Bonezegei_ILI9341)             | Batutay, Jofel. (2024). Bonezegei ILI9341 : Arduino Library for TFT LCD. https://doi.org/10.13140/RG.2.2.35712.20484.  |
