@@ -5,8 +5,8 @@ This document's content provides an overview of the key sources for each reposit
 
 | No. | Repository | Reference |
 |-----| -----------| ----------|
-| 1   | [Bonezegei SoftSerial](https://github.com/bonezegei/Bonezegei_SoftSerial)| Batutay, Jofel. (2023). Bonezegei SoftSerial. ResearchGate. https://doi.org/10.13140/RG.2.2.28003.12325.    |
-| 2   | [Bonezegei GPS](https://github.com/bonezegei/Bonezegei_GPS)              | Batutay, Jofel. (2023). Bonezegei GPS Library. ResearchGate. https://doi.org/10.13140/RG.2.2.25171.96807/1. |
+| 1   | [Bonezegei SoftSerial](https://github.com/bonezegei/Bonezegei_SoftSerial)| Batutay, Jofel. (2023). Bonezegei SoftSerial. ResearchGate. https://doi.org/10.13140/RG.2.2.28003.12325.                                                         |
+| 2   | [Bonezegei GPS](https://github.com/bonezegei/Bonezegei_GPS)              | Batutay, Jofel. (2023). Bonezegei GPS Library. ResearchGate. https://doi.org/10.13140/RG.2.2.25171.96807/1.                                                      |
 | 3   | [Bonezegei Search](https://github.com/bonezegei/Bonezegei_Search)        | Batutay, Jofel. (2023). Bonezegei Search : A Library for Extracting Key Values from Single Strings in Embedded Systems. ResearchGate. https://doi.org/10.13140/RG.2.2.30336.20487 |
 | 4   | [Bonezegei GSM](https://github.com/bonezegei/Bonezegei_GSM)             | Batutay, Jofel. (2023). Bonezegei GSM: A Simple and Reliable Arduino Library for AT Command Based GSM Modules. ResearchGate. https://doi.org/10.13140/RG.2.2.13359.10400.  |
 | 5   | [Bonezegei-SMS](https://github.com/bonezegei/Bonezegei-SMS)             | Batutay, Jofel. (2023). Bonezegei-SMS: Simple Self Hosted SMS Gateway. ResearchGate. https://doi.org/10.13140/RG.2.2.11157.09444.                                 |
@@ -23,4 +23,4 @@ This document's content provides an overview of the key sources for each reposit
 | 16  | [Bonezegei_ILI9341](https://github.com/bonezegei/Bonezegei_ILI9341)             | Batutay, Jofel. (2024). Bonezegei ILI9341 : Arduino Library for TFT LCD. https://doi.org/10.13140/RG.2.2.35712.20484.                                     |
 | 17  | [Bonezegei_XPT2046](https://github.com/bonezegei/Bonezegei_XPT2046)             | Batutay, Jofel. (2024). Bonezegei XPT2046 : Arduino Library for Resistive Touch. https://doi.org/10.13140/RG.2.2.21451.57128.                             |
 | 18  | [Bonezegei_Utility](https://github.com/bonezegei/Bonezegei_Utility)             | Batutay, Jofel. (2024). Bonezegei Utility: Arduino Library for Bonezegei Graphics Library. https://doi.org/10.13140/RG.2.2.27454.66886.                   |
-| 18  | [Bonezegei_DS3231](https://github.com/bonezegei/Bonezegei_DS3231)               | Batutay, Jofel. (2024). Bonezegei D3231 : Arduino Library for I2C Real Time Clock. https://doi.org/10.13140/RG.2.2.33605.22249.                           |
+| 19  | [Bonezegei_DS3231](https://github.com/bonezegei/Bonezegei_DS3231)               | Batutay, Jofel. (2024). Bonezegei D3231 : Arduino Library for I2C Real Time Clock. https://doi.org/10.13140/RG.2.2.33605.22249.                           |
