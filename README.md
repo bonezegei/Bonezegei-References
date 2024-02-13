@@ -4,7 +4,6 @@ This document's content provides an overview of the key sources for each reposit
 
 [![P](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Jofel-Batutay/research)
 
-#bonezegei
 ### Library Repositories
 
 | No. | Repository | Reference |
